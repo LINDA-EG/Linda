@@ -17,13 +17,6 @@
 - `assets/images/` - مجلد الصور (صورة المنتج ورمز QR)
 - `social_links.html` - صفحة روابط التواصل الاجتماعي
 - `content.md` - المحتوى التسويقي
-
-## كيفية الاستخدام
-
-1. فك ضغط الملفات
-2. افتح ملف `index.html` في متصفح الويب
-3. أو رفع الملفات على خدمة استضافة (GitHub Pages, Netlify, إلخ)
-
 ## التواصل
 
 - Facebook: facebook.com/linda.eg.2
